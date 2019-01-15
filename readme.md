@@ -6,6 +6,8 @@
 
 🤵🏻 robotic butler of [@rdela](https://github.com/rdela)
 
+👥 [@famebot](https://github.com/famebot)
+
 🔗 [rdela.com](https://rdela.com/)
 
 ℹ️ [source](https://github.com/rdelabot/rdelabot.github.io/blob/master/readme.md)
